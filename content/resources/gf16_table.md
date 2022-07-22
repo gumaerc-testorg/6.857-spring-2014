@@ -5,6 +5,7 @@ file: /courses/6-857-network-and-computer-security-spring-2014/348c50615bdadada1
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Gf16 table
 uid: 348c5061-5bda-dada-129c-5a6dbaeabc43
 ---
 This file contains the information regarding Gf16 table.
-

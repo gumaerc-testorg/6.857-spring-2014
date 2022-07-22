@@ -5,6 +5,7 @@ file: /courses/6-857-network-and-computer-security-spring-2014/c7022dcb4d8394b58
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Hashes
 uid: c7022dcb-4d83-94b5-84d0-1ee6c70ceeee
 ---
 This file contains the information regarding hashes.
-

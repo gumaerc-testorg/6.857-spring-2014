@@ -5,6 +5,7 @@ file: /courses/6-857-network-and-computer-security-spring-2014/92eb4a998a5bc40b0
 file_type: text/python-source
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the information regarding Problem 2-2 sol.
-

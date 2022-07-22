@@ -5,6 +5,7 @@ file: /courses/6-857-network-and-computer-security-spring-2014/dcee7c3fd8db575c9
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Tenciphs
 uid: dcee7c3f-d8db-575c-90ad-bd6a3d7d945c
 ---
 This file contains the information regarding Tenciphs.
-
