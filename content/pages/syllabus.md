@@ -3,6 +3,7 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, textbooks, groups, homework, tests, the final project,
   grading, collaboration and plagiarism, and ethics.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,19 +19,19 @@ Recitations: 1 session / week, 1.5 hours / session
 
 ## Prerequisites
 
-The prerequisites for the course are [_6.033 Computer System Engineering_](/courses/6-033-computer-system-engineering-spring-2009/) _and_ [_6.042J Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-spring-2015). It is recommended that students have had [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-fall-2011) _or_ [_6.046J Design and Analysis of Algorithms_](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005) and experience with modular arithmetic.
+The prerequisites for the course are [*6.033 Computer System Engineering*](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) *and* [*6.042J Mathematics for Computer Science*](/courses/6-042j-mathematics-for-computer-science-spring-2015). It is recommended that students have had [*6.006 Introduction to Algorithms*](/courses/6-006-introduction-to-algorithms-fall-2011) *or* [*6.046J Design and Analysis of Algorithms*](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005) and experience with modular arithmetic.
 
 ## Description
 
-_6.857_  _Network and Computer Security_ is a 12-unit (3-0-9) H-level course ![](/images/educator/icon-question-hlevel.png) intended primarily for seniors and first-year graduate students. It fits within the Computer Systems Concentration. Graduate students will receive H-credit for this class.
+*6.857*  *Network and Computer Security* is a 12-unit (3-0-9) H-level course ![](/images/educator/icon-question-hlevel.png) intended primarily for seniors and first-year graduate students. It fits within the Computer Systems Concentration. Graduate students will receive H-credit for this class.
 
 ## Textbook
 
-There is no required textbook for this course; lecture notes will be provided. A list of recommended books is available on the {{% resource_link 86caefc6-7009-f4fd-fe51-3a94094c3a93 "Related Resources" %}} page; that page also lists other references you may find useful.
+There is no required textbook for this course; lecture notes will be provided. A list of recommended books is available on the {{% resource_link "86caefc6-7009-f4fd-fe51-3a94094c3a93" "Related Resources" %}} page; that page also lists other references you may find useful.
 
 ## Groups
 
-_6.857 Network and Computer Security_ is a group-oriented course. Students will work in groups on both homeworks and the final project. It is not expected that your project group will be the same as your homework group(s), although that is perfectly fine.
+*6.857 Network and Computer Security* is a group-oriented course. Students will work in groups on both homeworks and the final project. It is not expected that your project group will be the same as your homework group(s), although that is perfectly fine.
 
 The final project team should be determined by Lecture 10. To keep groups running smoothly, students should ensure that their fellow members are actively participating and should communicate regularly.
 
@@ -60,7 +61,23 @@ It is advisable to get started early; we will gladly accept proposals before the
 
 ## Grading
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}ACTIVITIES{{< thclose >}}{{< thopen >}}PERCENTAGES{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}Problem Sets{{< tdclose >}}{{< tdopen >}}40%{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}Quizzes{{< tdclose >}}{{< tdopen >}}20%{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}Final Project{{< tdclose >}}{{< tdopen >}}40%{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}{{< tdopen >}}
+40%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Quizzes
+{{< tdclose >}}{{< tdopen >}}
+20%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Final Project
+{{< tdclose >}}{{< tdopen >}}
+40%
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 {{< anchor "test" >}}{{< /anchor >}}
 
