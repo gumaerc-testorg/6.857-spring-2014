@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding hashes.
 file: /courses/6-857-network-and-computer-security-spring-2014/c7022dcb4d8394b584d01ee6c70ceeee_hashes.txt
+file_size: 7646
 file_type: text/plain
 learning_resource_types:
 - Assignments

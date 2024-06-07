@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding Problem 2-2 sol.
 file: /courses/6-857-network-and-computer-security-spring-2014/92eb4a998a5bc40b053c3e572ec4d0d5_Problem2-2_Sol.py
+file_size: 46
 file_type: text/python-source
 learning_resource_types:
 - Assignments
