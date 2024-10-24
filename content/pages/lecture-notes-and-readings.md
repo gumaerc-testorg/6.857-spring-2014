@@ -46,14 +46,14 @@ Juels, Ari, and Ronald Rivest. "[Honeywords: Making Password-Cracking Detectable
 
 Avgerinos, Thanassis, Sang Kil Cha, et al. "[Automatic Exploit Generation](http://dx.doi.org/10.1145/2560217.2560219)." *Communications of the ACM* 57, no. 2 (2014): 74–84.
 
-Hess, Austin. "[Student Innovators May Get New Legal Resource](http://tech.mit.edu/V134/N5/tidbit.html)." *The Tech* 134, no. 5 (2014).
+Hess, Austin. "[Student Innovators May Get New Legal Resource](https://thetech.com/issues/134/5)." *The Tech* 134, no. 5 (2014).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "af613d5b-bf10-0539-a9ac-8c05ecfd1b64" "Hashing Applications and Constructions (PDF - 1.7MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
-Rivest, Ronald L., and Adi Shamir. ["PayWord and MicroMint: Two Simple Micropayment Schemes." (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=EE087407D0FDC66630EC9F64C4DD3BF4?doi=10.1.1.70.9003&rep=rep1&type=pdf) MIT Laboratory for Computer Science, 2001.
+Rivest, Ronald L., and Adi Shamir. ["PayWord and MicroMint: Two Simple Micropayment Schemes." (PDF)](https://link.springer.com/content/pdf/10.1007/3-540-62494-5_6.pdf) MIT Laboratory for Computer Science, 2001.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -63,7 +63,7 @@ Rivest, Ronald L., and Adi Shamir. ["PayWord and MicroMint: Two Simple Micropaym
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "4b8e8c3f-668b-50e6-9862-56ee388585df" "Secret Sharing (PDF - 2.2MB)" %}}   
+{{% resource_link "4b8e8c3f-668b-50e6-9862-56ee388585df" "Secret Sharing (PDF - 2.2MB)" %}}     
 (Only read the section on secret sharing)
 {{< tdclose >}}{{< tdopen >}}
  
