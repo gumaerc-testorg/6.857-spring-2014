@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Tenciphs.
-file: /ol-ocw-studio-app/courses/6-857-network-and-computer-security-spring-2014/dcee7c3fd8db575c90adbd6a3d7d945c_tenciphs.txt
+file: /courses/6-857-network-and-computer-security-spring-2014/dcee7c3fd8db575c90adbd6a3d7d945c_tenciphs.txt
 file_size: 2733
 file_type: text/plain
 learning_resource_types:

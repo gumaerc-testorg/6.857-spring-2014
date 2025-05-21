@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contain the information regarding How to Give an Academic Talk,
   v5.1.
-file: /ol-ocw-studio-app/courses/6-857-network-and-computer-security-spring-2014/1180a47779b93afe67954e643d2a6931_MIT6_857S14_proj_umic-talk.pdf
+file: /courses/6-857-network-and-computer-security-spring-2014/1180a47779b93afe67954e643d2a6931_MIT6_857S14_proj_umic-talk.pdf
 file_size: 221364
 file_type: application/pdf
 learning_resource_types:

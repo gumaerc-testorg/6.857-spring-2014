@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Gf16 table.
-file: /ol-ocw-studio-app/courses/6-857-network-and-computer-security-spring-2014/348c50615bdadada129c5a6dbaeabc43_gf16_table.txt
+file: /courses/6-857-network-and-computer-security-spring-2014/348c50615bdadada129c5a6dbaeabc43_gf16_table.txt
 file_size: 4984
 file_type: text/plain
 learning_resource_types:
