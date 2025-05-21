@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Run lengths.
-file: /ol-ocw-studio-app/courses/6-857-network-and-computer-security-spring-2014/1916724c219dacd90ef841fd452a97fe_run_lengths.png
+file: /courses/6-857-network-and-computer-security-spring-2014/1916724c219dacd90ef841fd452a97fe_run_lengths.png
 file_size: 11269
 file_type: image/png
 image_metadata:
