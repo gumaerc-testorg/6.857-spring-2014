@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding kalns.
-file: /courses/6-857-network-and-computer-security-spring-2014/2f549600d1420b648d272e70777eddc1_kalns.py
+file: /ol-ocw-studio-app/courses/6-857-network-and-computer-security-spring-2014/2f549600d1420b648d272e70777eddc1_kalns.py
 file_size: 9124
 file_type: text/python-source
 learning_resource_types:
