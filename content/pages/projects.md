@@ -33,12 +33,12 @@ Another source of ideas for your final project might be Phillip Hallam-Baker's n
 
 ## Topics from Previous Years
 
-This list has gotten a bit long over the past few years. For now, take a look at the [project pitches from 2010](http://courses.csail.mit.edu/6.857/2010/pitches.html) and a list of [projects from 2009 and before](http://courses.csail.mit.edu/6.857/2010/projects.html).
+This list has gotten a bit long over the past few years. For now, take a look at the {{% resource_link "e0a56a8e-3d36-4988-94fd-db048066c16b" "project pitches from 2010" %}} and a list of {{% resource_link "954a756b-6133-498e-966d-11e970742e0c" "projects from 2009 and before" %}}.
 
 ## Hints for Writing Your Paper and Giving Your Talk
 
-- How to make a [good paper and talk](http://www.eecs.berkeley.edu/~fox/paper_writing.html)
-- [How (and How Not) to Write a Good Systems Paper](http://www.usenix.org/event/samples/submit/advice.html)
+- How to make a {{% resource_link "5e627019-6129-402e-a393-66b063c2e7e0" "good paper and talk" %}}
+- {{% resource_link "a9593707-ffb7-4463-8615-8068b81c2095" "How (and How Not) to Write a Good Systems Paper" %}}
 - Edwards, Paul N. {{% resource_link 1180a477-79b9-3afe-6795-4e643d2a6931 "\"How to Give an Academic Talk, v5.1\" (PDF)" %}} (Courtesy of Paul Edwards. CC BY-NC-SA 4.0.)
 
 ## This Year's Projects
@@ -68,4 +68,4 @@ This list has gotten a bit long over the past few years. For now, take a look at
 - SendSecure
 - Speedy: A Sybil-resistant DHT Implementation
 
-For more information about these projects, please visit the [2014 6.857 class site](http://courses.csail.mit.edu/6.857/2014/projects).
+For more information about these projects, please visit the {{% resource_link "54bd307f-e49d-41b1-b35b-df0a26b55b32" "2014 6.857 class site" %}}.
