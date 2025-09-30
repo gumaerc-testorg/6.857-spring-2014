@@ -19,7 +19,7 @@ Recitations: 1 session / week, 1.5 hours / session
 
 ## Prerequisites
 
-The prerequisites for the course are [*6.033 Computer System Engineering*](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) *and* [*6.042J Mathematics for Computer Science*](/courses/6-042j-mathematics-for-computer-science-spring-2015). It is recommended that students have had [*6.006 Introduction to Algorithms*](/courses/6-006-introduction-to-algorithms-fall-2011) *or* [*6.046J Design and Analysis of Algorithms*](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005) and experience with modular arithmetic.
+The prerequisites for the course are {{% resource_link "d5b2789a-62a9-46b3-8f61-18e979a65c4b" "*6.033 Computer System Engineering*" %}} *and* [*6.042J Mathematics for Computer Science*](/courses/6-042j-mathematics-for-computer-science-spring-2015). It is recommended that students have had [*6.006 Introduction to Algorithms*](/courses/6-006-introduction-to-algorithms-fall-2011) *or* [*6.046J Design and Analysis of Algorithms*](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005) and experience with modular arithmetic.
 
 ## Description
 
@@ -39,7 +39,7 @@ The final project team should be determined by Lecture 10. To keep groups runnin
 
 We will distribute five problem sets on a biweekly basis.
 
-Homework should be submitted in PDF format. For homework involving non-trivial mathematics, students are strongly encouraged to use [LaTeX](http://www.latex-project.org/) to typeset their answers. Homework that is difficult for the graders to read will lose points.
+Homework should be submitted in PDF format. For homework involving non-trivial mathematics, students are strongly encouraged to use {{% resource_link "49881af5-577d-400b-b0ef-92f80839d0d3" "LaTeX" %}} to typeset their answers. Homework that is difficult for the graders to read will lose points.
 
 Late homework will not be accepted. If in doubt, turn your problem set in early. Solutions will be distributed with corrected homework–hopefully within a week of being collected.
 
@@ -101,8 +101,8 @@ Nevertheless, unless you have explicit written authorization from the owner and 
 
 In particular, term projects involving an evaluation of security of existing commercial products or systems need the approval of the course staff, who may require that you obtain permission from the vendor / supplier (depending on the nature of your proposed evaluation).
 
-We strongly recommend that you consult the [Athena Rules of Use](http://ist.mit.edu/services/athena/olh/rules) and [Section 13.2 of the MIT Policies and Procedures "Policy on the Use of Information Technology"](https://policies-procedures.mit.edu/information-policies/policy-use-information-technology-resources).
+We strongly recommend that you consult the {{% resource_link "a50d5420-75e5-4101-a714-8da002d8af13" "Athena Rules of Use" %}} and {{% resource_link "4d44b3d9-feb2-4756-88e0-e6da039b88e8" "Section 13.2 of the MIT Policies and Procedures \"Policy on the Use of Information Technology\"" %}}.
 
-Finally, we recommend that you read and review the [ACM Code of Ethics and Professional Conduct](http://www.acm.org/about/code-of-ethics).
+Finally, we recommend that you read and review the {{% resource_link "30bbb305-7ba4-4a1e-beaa-ab7f557c86ef" "ACM Code of Ethics and Professional Conduct" %}}.
 
 We expect all students in this class to follow the guidelines presented in this document, and in the documents just cited. If you are in doubt about the legality or ethics of any activity related to this course, please consult the staff before undertaking any such activity.
